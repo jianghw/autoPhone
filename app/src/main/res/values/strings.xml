@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AutoCall</string>
+    <string name="app_description">接电话、合并通话、挂断</string>
+    <string name="action_settings">Settings</string>
+</resources>
